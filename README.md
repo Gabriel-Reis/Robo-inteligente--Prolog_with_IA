@@ -42,7 +42,7 @@
     | 29/1B | 30/1D | 31/1F | 32/1H |
 
 ## Instruções
-Para iniciar o programa, tenha um compilador de Prolog instalado execute o arquivo agenteNOVOV5.pl e em seguida execute o comando que desejar.
+Para iniciar o programa, tenha um compilador de Prolog instalado execute o arquivo agente.pl e em seguida execute o comando que desejar.
 
 ## Comandos:
 * agente() - Inicia o robo para modo manual.
